@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-d2c8dd22.js";const r={},s=e("h1",{id:"自定i有文件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#自定i有文件","aria-hidden":"true"},"#"),o(" 自定i有文件")],-1),_=[s];function n(i,d){return a(),c("div",null,_)}const l=t(r,[["render",n],["__file","1.html.vue"]]);export{l as default};
